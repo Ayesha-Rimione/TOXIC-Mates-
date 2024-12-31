@@ -236,6 +236,7 @@ int main() {
     ConnectionsManager connectionsManager;
     ActivityFeed activityFeed;
     MessagingSystem messagingSystem;
+    cout<<"Welcokme to TOXIC UNO Mates";
 
     int choice;
     string username, details, interest, user1, user2, activity, content;
